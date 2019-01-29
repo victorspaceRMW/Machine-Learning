@@ -5,6 +5,10 @@ Created on Mon Jan 28 04:11:37 2019
 @author: wrm
 """
 
+"""
+I used KNN to test (1, iris data set) and (2, hand-written-digit dataset) both from the sklearn.
+"""
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
