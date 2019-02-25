@@ -1,5 +1,6 @@
 # Machine-Learning Everyday Practice
-For this project, I collected the machine learning program that I write with Python, R and MATLAB(Maybe more languages in the future). 
+For this project, I collected all the machine learning programs that I write with Python, R and MATLAB. 
 
-Generally that is for personal reference. But you may take them as reference as all the code I uploaded here could run very well on my 
-computer(With Python 3.6-Annaconda_Spyder), Rstudio and GNU Octave.
+There are machine learning examples as well as summary for the projects.
+
+For Python I used Anaconda-Spyder(Python 3.6) on windows 10. 
