@@ -13,8 +13,8 @@ from sklearn.model_selection import cross_val_score
 The Pima Indian dataset is downloaded from Kaggle:
 https://www.kaggle.com/kumargh/pimaindiansdiabetescsv
 
-And here is the describtion towards the problem. The only difference is that I
-used Python rather than R to do the homework.
+And here is the describtion towards the problem. The only difference is that I used Python rather than R to do the homework.
+This homework is designed by world-famous computer vision expert Prof.David Forysth.
 
 Problem 1
 I strongly advise you use the R language for this homework (but word is out on Piazza that you could use Python; note I don't know if packages are available in Python). You will have a place to upload your code with the submission.
