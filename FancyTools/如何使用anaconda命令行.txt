@@ -1,0 +1,11 @@
+conda env list:
+输出在当前系统内所安装的所有环境
+
+conda create -n imagepro python=2.7
+生成一个名叫imagepro，python版本为2.7的新环境
+
+conda activate dlpytorch
+激活新环境：dlpytorhc
+
+conda install -n dlpytorch opencv
+在新环境：dlpytorch内安装opencv库
